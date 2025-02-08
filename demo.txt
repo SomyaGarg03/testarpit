@@ -1,1 +1,2 @@
-demo file- changed
+demo file- changed- modified
+New line added.
